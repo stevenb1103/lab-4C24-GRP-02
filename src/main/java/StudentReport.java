@@ -1,5 +1,5 @@
 public class StudentReport {
-    public void report(){
-        // To Do
+    public void generate() {
+        System.out.println("Reporte generado.");
     }
 }

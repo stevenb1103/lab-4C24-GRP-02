@@ -1,5 +1,4 @@
 public class StudentModel {
-    public void model(){
-        // To Do
-    }
+    public String getName() {
+        return "Juan Perez";}
 }

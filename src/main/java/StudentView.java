@@ -1,5 +1,5 @@
 public class StudentView {
-    public void view(){
-        // To Do
+    public void show() {
+        System.out.println("Pantalla de Estudiante");
     }
 }
