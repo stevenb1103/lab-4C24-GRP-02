@@ -1,5 +1,6 @@
 public class StudentController {
-    public void controller(){
-        // To Do
+    // Lógica para mostrar la lista de estudiantes
+    public void displayStudents() {
+        System.out.println("Mostrando lista de estudiantes...");
     }
 }
